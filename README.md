@@ -1,2 +1,2 @@
 # Guessing-game
-A guessing game app built with kotlin
+A guessing game app that is built with kotlin
