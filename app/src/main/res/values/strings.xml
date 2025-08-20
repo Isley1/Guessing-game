@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name="hint">Enter your guess</string>
+    <string name="submit">Submit</string>
+    <string name="result_default">Guess a number between 1 and 100</string>
+</resources>
